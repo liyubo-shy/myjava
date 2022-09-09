@@ -9,10 +9,10 @@ import java.io.*;
 public class ObjectOutPutStreamTest {
     public static void main(String[] args) throws IOException {
         File path = new File("D:\\序列化.txt");
-        Dog kity = new Dog("kity", 12);
+        Dog mi = new Dog("mi", 12);
         ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(path));
-        oos.write(100);
-        oos.writeObject(kity);
+        oos.writeInt(100);
+        oos.writeObject(mi);
 
         oos.close();
     }
