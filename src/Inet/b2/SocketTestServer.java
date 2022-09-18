@@ -2,6 +2,7 @@ package Inet.b2;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -21,6 +22,11 @@ public class SocketTestServer {
         while ((len = inputStream.read(buf)) != -1){
             System.out.println(new String(buf,0,len));
         }
+        //返回信息
+        OutputStream outputStream = socket.getOutputStream();
+        outputStream.write("hello,ppt".getBytes());
+        //输出结束标语
+        socket.shutdownOutput();
         //关闭资源
         serverSocket.close();
         inputStream.close();

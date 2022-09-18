@@ -1,6 +1,7 @@
 package Inet.b2;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.InetAddress;
 import java.net.Socket;
@@ -14,6 +15,15 @@ public class SocketTestClient {
         OutputStream outputStream = socket.getOutputStream();
         //输出数据
         outputStream.write("hello excel".getBytes());
+        //输出结束标语
+        socket.shutdownOutput();
+        //读取服务端返回的信息
+        InputStream inputStream = socket.getInputStream();
+        byte[] buf = new byte[1024];
+        int len = 0;
+        while ((len = inputStream.read(buf)) != -1 ){
+            System.out.println(new String(buf,0,len));
+        }
         //关闭资源
         outputStream.close();
         socket.close();
