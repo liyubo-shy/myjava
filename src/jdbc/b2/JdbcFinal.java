@@ -16,7 +16,7 @@ public class JdbcFinal {
         //创建properties对象用于接收配置文件
         Properties properties = new Properties();
         //加载配置文件
-        properties.load(new FileInputStream("D:\\myjava\\src\\jdbc\\b2\\connet.properties"));
+        properties.load(new FileInputStream("D:\\myjava\\src\\jdbc\\connet.properties"));
         //获取配置信息
         String url = properties.getProperty("url");
         String user = properties.getProperty("user");
