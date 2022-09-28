@@ -30,7 +30,7 @@ public class C3P0Test {
     /**
      * 使用C3P0连接池连接5000次  --325
      */
-    public void Test() throws PropertyVetoException, SQLException {
+    public void C3P0_1() throws PropertyVetoException, SQLException {
         //创建C3P0对象
         ComboPooledDataSource comboPooledDataSource = new ComboPooledDataSource();
         //配置C3P0连接池的参数,这里使用JDBC工具类获取参数
