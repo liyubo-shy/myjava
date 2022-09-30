@@ -14,7 +14,7 @@ import java.util.Properties;
  * 德鲁伊连接工具类
  */
 public class JDBCUtilsDruid {
-    private static DataSource dataSource;
+    private static final DataSource dataSource;
 
     static {
         try {

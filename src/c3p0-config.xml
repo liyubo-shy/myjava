@@ -1,5 +1,5 @@
 <c3p0-config>
-
+    <!-- 连接池名称 -->
     <named-config name="bo_c3p0">
         <!-- 驱动类 -->
         <property name="driverClass">com.mysql.jdbc.Driver</property>
