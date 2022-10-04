@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * Created with IntelliJ IDEA.
- *
+ *泛型
  * @Author: bo
  * @Date: 2022/08/28/18:17
  * @Description: 在人间已是癫，何苦要上青天，不如温柔同眠
