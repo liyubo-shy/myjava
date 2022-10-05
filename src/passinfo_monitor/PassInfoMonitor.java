@@ -13,6 +13,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Author: bo
  * @DATE: 2022/10/5 21:13
+ * 监控整车过点信息处理
  **/
 public class PassInfoMonitor {
     public static void main(String[] args) throws SQLException, InterruptedException, IOException {
@@ -49,7 +50,7 @@ public class PassInfoMonitor {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             ResultSet resultSet = preparedStatement.executeQuery();
 
-            System.out.print("第" + i + "次查询：    ");
+            System.out.print("\033[34m"+"第" + i + "次查询：    ");
             //获取当前时间
             String time = dateFormat.format(new Date());
             System.out.println(time);
@@ -63,11 +64,11 @@ public class PassInfoMonitor {
                 //写入日志文件
                 bfw.newLine();  //每次开始写入前先换行
                 bfw.write(time+"    ");
-                bfw.write("\\033[44m"+funcName + "{数量:" + count+"}  ");
+                bfw.write(funcName + "{数量:" + count+"}  ");
                 bfw.flush();    //使写入生效
 
                 //设置监控，当VehicOverPointInfo_AM0D未处理的数量达到5时发出告警
-                if ((funcName.equals("OrderTheOrder_AP0L")||funcName.equals("OutSyncTicket_AW0B")) & ((Integer.parseInt(count)) > 2)) {
+                if (funcName.equals("VehicOverPointInfo_AM0D") & ((Integer.parseInt(count)) > 2)) {
                     //提示音
                     java.awt.Toolkit.getDefaultToolkit().beep();
                     //弹出窗口
