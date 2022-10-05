@@ -10,6 +10,6 @@ package draw.b2;
 public class Demo {
     public static void main(String[] args) {
         new Draw2();
-        new Draw3();
+//        new Draw3();
     }
 }

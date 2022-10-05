@@ -7,7 +7,7 @@ import java.sql.*;
 import java.util.Properties;
 
 /**
- * JDBC连接工具类
+ * JDBC连接工具类\\mysql
  */
 
 public class JDBCUtils {
