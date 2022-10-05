@@ -60,13 +60,13 @@ public class Poker {
                 }
             }
         }
-        System.out.println("第一副牌：");
+        System.out.println("\033[m[" +"第一副牌：");
         Show.showPoker(player1, hm);
-        System.out.println("第二副牌：");
+        System.out.println("\033[m[" +"第二副牌：");
         Show.showPoker(player2, hm);
-        System.out.println("第三副牌：");
+        System.out.println("\033[m[" +"第三副牌：");
         Show.showPoker(player3, hm);
-        System.out.println("底牌：");
+        System.out.println("\033[m[" +"底牌：");
         Show.showPoker(last, hm);
 
 
