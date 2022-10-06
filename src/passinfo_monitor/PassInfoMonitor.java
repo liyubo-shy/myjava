@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @Author: bo
  * @DATE: 2022/10/5 21:13
- * 监控整车过点信息处理
+ * 整车过点信息5条未处理告警
  **/
 public class PassInfoMonitor {
     public static void main(String[] args) throws SQLException, InterruptedException, IOException {
@@ -50,25 +50,31 @@ public class PassInfoMonitor {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             ResultSet resultSet = preparedStatement.executeQuery();
 
-            System.out.print("\033[34m"+"第" + i + "次查询：    ");
+            System.out.print("\033[m"+"第" + i + "次查询：    ");
             //获取当前时间
             String time = dateFormat.format(new Date());
-            System.out.println(time);
+            System.out.println("\033[34m"+ time);
             //循环读取查询结果
             while (resultSet.next()) {
                 //从resultSet中获得列数据
                 String funcName = resultSet.getString("FUNC_NAME");
+                String itName = resultSet.getString("IT_NAME");
                 String count = resultSet.getString("数量");
-                //输出控制台
-                System.out.println(funcName + "   数量：" + count);
+                //输出控制台,数量大于5以红色显示
+                if ((Integer.parseInt(count)) > 5){
+                    System.out.println("\033[31m" +itName + "   数量：" + count);
+                }else {
+                    System.out.println("\033[m" +itName + "   数量：" + count);
+                }
+
                 //写入日志文件
                 bfw.newLine();  //每次开始写入前先换行
                 bfw.write(time+"    ");
-                bfw.write(funcName + "{数量:" + count+"}  ");
+                bfw.write(funcName + itName +"{数量:" + count+"}  ");
                 bfw.flush();    //使写入生效
 
                 //设置监控，当VehicOverPointInfo_AM0D未处理的数量达到5时发出告警
-                if (funcName.equals("VehicOverPointInfo_AM0D") & ((Integer.parseInt(count)) > 2)) {
+                if (funcName.equals("VehicOverPointInfo_AM0D") & ((Integer.parseInt(count)) > 5)) {
                     //提示音
                     java.awt.Toolkit.getDefaultToolkit().beep();
                     //弹出窗口
