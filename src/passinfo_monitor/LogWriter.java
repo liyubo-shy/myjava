@@ -23,7 +23,7 @@ public class LogWriter {
             bufferedWriter = new BufferedWriter(new FileWriter(path, true));
             bufferedWriter.newLine();  //每次开始写入前先换行
             bufferedWriter.write(time + "    ");
-            bufferedWriter.write(name + " " + itName + "{数量:" + count + "}  ");
+            bufferedWriter.write(name + " " + itName + "{数量:" + count + "}");
             bufferedWriter.flush();    //使写入生效
         } catch (IOException e) {
             e.printStackTrace();

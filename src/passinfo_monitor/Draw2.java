@@ -15,7 +15,7 @@ public class Draw2 extends JFrame {
         MyPanel2 myPanel2 = new MyPanel2();
         this.add(myPanel2);
         this.setSize(300,100);
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
         this.setVisible(true);
 
     }
