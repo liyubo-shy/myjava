@@ -86,7 +86,7 @@ public class MonitorRunning implements Runnable {
                 //写入日志文件
                 LogWriter.logWriter(funcName, itName, count, time);
 
-                //设置监控，当VehicOverPointInfo_AM0D未处理的数量达到5时发出告警
+                //设置监控，当VehicOverPointInfo_AM0D未处理的数量达到5或OutSyncTicket_AW0B达到50时发出告警
                 if (
                         funcName.equals("VehicOverPointInfo_AM0D") & ((Integer.parseInt(count)) > 5) ||
                                 funcName.equals("OutSyncTicket_AW0B") & ((Integer.parseInt(count)) > 50)
