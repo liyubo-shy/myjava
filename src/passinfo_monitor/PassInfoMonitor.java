@@ -1,4 +1,5 @@
 package passinfo_monitor;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -15,6 +16,7 @@ import java.util.concurrent.TimeUnit;
  * @DATE: 2022/10/5 21:13
  * 整车过点信息5条未处理告警
  **/
+@SuppressWarnings("all")
 public class PassInfoMonitor {
     public static void main(String[] args) throws SQLException, InterruptedException, IOException {
         //获得连接
@@ -41,19 +43,21 @@ public class PassInfoMonitor {
         //定义文件名时间格式
         SimpleDateFormat df = new SimpleDateFormat("yyyy_MM_dd");
         //循环查询
+
         while (true) {
             //创建输出流，追加模式
-            String path = "D:\\myjava\\src\\passinfo_monitor\\Log\\"+df.format(new Date())+"_PassInfoMonitor.log";
-            FileWriter fileWriter = new FileWriter(path,true);
+            String path = "D:\\myjava\\src\\passinfo_monitor\\Log\\" + df.format(new Date()) + "_PassInfoMonitor.log";
+            FileWriter fileWriter = new FileWriter(path, true);
             BufferedWriter bfw = new BufferedWriter(fileWriter);
             //得到与Sql关联的statement并执行sql查询
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             ResultSet resultSet = preparedStatement.executeQuery();
 
-            System.out.print("\033[m"+"第" + i + "次查询：    ");
+            System.out.print("\033[m" + "第" + i + "次查询：    ");
             //获取当前时间
             String time = dateFormat.format(new Date());
-            System.out.println("\033[34m"+ time);
+            System.out.println("\033[34m" + time);
+
             //循环读取查询结果
             while (resultSet.next()) {
                 //从resultSet中获得列数据
@@ -61,16 +65,16 @@ public class PassInfoMonitor {
                 String itName = resultSet.getString("IT_NAME");
                 String count = resultSet.getString("数量");
                 //输出控制台,数量大于5以红色显示
-                if ((Integer.parseInt(count)) > 5){
-                    System.out.println("\033[31m" +itName + "   数量：" + count);
-                }else {
-                    System.out.println("\033[m" +itName + "   数量：" + count);
+                if ((Integer.parseInt(count)) > 5) {
+                    System.out.println("\033[31m" + itName + "   数量：" + count);
+                } else {
+                    System.out.println("\033[m" + itName + "   数量：" + count);
                 }
 
                 //写入日志文件
                 bfw.newLine();  //每次开始写入前先换行
-                bfw.write(time+"    ");
-                bfw.write(funcName + itName +"{数量:" + count+"}  ");
+                bfw.write(time + "    ");
+                bfw.write(funcName + itName + "{数量:" + count + "}  ");
                 bfw.flush();    //使写入生效
 
                 //设置监控，当VehicOverPointInfo_AM0D未处理的数量达到5时发出告警
@@ -83,9 +87,12 @@ public class PassInfoMonitor {
                 }
             }
             System.out.println("-------------------------");
+            i++;
+            //每次读取完查询结果则关闭游标，下次循环重新生成
+            preparedStatement.close();
             //查询间隔
             TimeUnit.MINUTES.sleep(1);
-            i++;
+
         }
     }
 }
