@@ -15,8 +15,6 @@ import java.util.Date;
  **/
 @SuppressWarnings("all")
 public class MonitorRunning implements Runnable {
-    public static boolean flag = true;
-
     @Override
     public void run() {
         //获得连接
@@ -42,7 +40,7 @@ public class MonitorRunning implements Runnable {
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         //循环查询
 
-        while (flag) {
+        while (true) {
             //得到与Sql关联的statement并执行sql查询
             PreparedStatement preparedStatement = null;
             ResultSet resultSet = null;
@@ -103,22 +101,11 @@ public class MonitorRunning implements Runnable {
             //每次读取完查询结果则关闭游标和结果集，下次循环重新生成
             JDBCUtils.closeRec(preparedStatement, resultSet);
 
-            /**
-             * 每次休眠200毫秒,共休眠297次,加上程序执行时间刚好1分钟
-             * 每200毫秒判断一次flag,flag为flase时,关闭程序
-             */
-            for (int j = 0; j < 297; j++) {
-                //持续短时间休眠,便于快速接收到flag的改变,缩短关闭程序的响应时间
-                if (flag) {
-                    try {
-                        Thread.sleep(200);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                } else {
-                    System.exit(0);
-                }
-
+            //休眠1分钟后再查询
+            try {
+                Thread.sleep(60000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
 
         }

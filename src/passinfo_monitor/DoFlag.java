@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * @Author: bo
  * @DATE: 2022/10/8 3:01
- * 持续等待键盘输出,输入q,Q即改变静态变量flag为false,结束程序运行
+ * 持续等待键盘输出,输入q,Q时结束程序运行,并输出运行时长
  **/
 @SuppressWarnings("all")
 public class DoFlag implements Runnable{
@@ -27,7 +27,6 @@ public class DoFlag implements Runnable{
 
             //键盘录入Q或q时,改变flag,结束程序
             if (s.equals("Q") || s.equals("q")) {
-                MonitorRunning.flag=false;
                 //记录程序结束时间
                 long end = System.currentTimeMillis();
                 Date date = new Date(end-start-28800000);   //减去时区的8小时,28800000
@@ -35,7 +34,8 @@ public class DoFlag implements Runnable{
                 String format = dateFormat.format(date);
                 //输出
                 System.out.println("本次程序运行时长:"+format);
-                break;
+                //退出程序
+                System.exit(0);
             }
         }
     }
