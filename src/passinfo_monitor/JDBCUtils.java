@@ -58,6 +58,17 @@ public class JDBCUtils {
             throw  new RuntimeException(e);
         }
     }
+
+    //方法重载
+    public static void closeRec( Statement statement, ResultSet resultSet) {
+        try {
+            statement.close();
+            resultSet.close();
+        } catch (SQLException e) {
+            throw  new RuntimeException(e);
+        }
+    }
+
     //方法重载
     public static void closeRec( Connection connection) {
         try {
