@@ -15,7 +15,7 @@ public class MyPanel2 extends JPanel {
     public void paint(Graphics g) {
         super.paint(g);
         g.setColor(Color.red);
-        g.drawLine(1,1,300,300);
-        g.fillRect(1,1,300,300);
+        g.drawLine(1, 1, 300, 300);
+        g.fillRect(1, 1, 300, 300);
     }
 }

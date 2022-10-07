@@ -4,7 +4,7 @@ package passinfo_monitor;
 /**
  * @Author: bo
  * @DATE: 2022/10/8 2:54
- *过点信息监控程序启动类
+ * 过点信息监控程序启动类
  **/
 @SuppressWarnings("all")
 public class Start {
