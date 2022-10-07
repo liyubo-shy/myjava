@@ -17,6 +17,13 @@ import java.util.Date;
 public class MonitorRunning implements Runnable {
     @Override
     public void run() {
+
+        //休眠10ms,让另一个线程先打印出提示
+        try {
+            Thread.sleep(10);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         //获得连接
         Connection connection = JDBCUtils.getConnection();
         //编写Sql

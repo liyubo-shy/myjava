@@ -15,6 +15,9 @@ import java.util.Scanner;
 public class DoFlag implements Runnable{
     @Override
     public void run() {
+        System.out.println("\033[31m" +"程序开始运行,键盘输入任意字符退出程序");
+        System.out.println("\033[31m" +"程序开始运行,键盘输入任意字符退出程序");
+        System.out.println("\033[31m" +"程序开始运行,键盘输入任意字符退出程序");
         //定义时间格式
         DateFormat dateFormat = new SimpleDateFormat("HH时:mm分:ss秒");
         //记录程序开启时间
@@ -26,7 +29,7 @@ public class DoFlag implements Runnable{
             String s = scanner.nextLine();
 
             //键盘录入Q或q时,改变flag,结束程序
-            if (s.equals("Q") || s.equals("q")) {
+            if (s!=null) {
                 //记录程序结束时间
                 long end = System.currentTimeMillis();
                 Date date = new Date(end-start-28800000);   //减去时区的8小时,28800000
