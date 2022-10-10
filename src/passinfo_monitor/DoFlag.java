@@ -1,6 +1,7 @@
 package passinfo_monitor;
 
 
+import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -36,7 +37,10 @@ public class DoFlag implements Runnable {
                 //格式化时间
                 String format = dateFormat.format(date);
                 //输出
-                System.out.println("本次程序运行时长:" + format);
+                String comment = "本次程序运行时长:" + format;
+                System.out.println(comment);
+                //写入日志
+                LogWriter.logWriter(comment);
                 //退出程序
                 System.exit(0);
             }

@@ -1,0 +1,1107 @@
+
+2022-10-10 18:50:05    OutSyncTicket_AW0B LMS外同步票接口{数量:34}
+2022-10-10 18:50:05    TransferVehicleBOM_BD00 null{数量:18}
+2022-10-10 18:50:05    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 18:50:05    TransferVehicleBOM_AD08 单车BOM{数量:300}
+2022-10-10 18:51:05    TransferVehicleBOM_BD00 null{数量:8}
+2022-10-10 18:51:05    TransferVehicleBOM_AD08 单车BOM{数量:280}
+2022-10-10 18:52:05    OutSyncTicket_AW0B LMS外同步票接口{数量:71}
+2022-10-10 18:53:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 18:53:06    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 18:53:06    TransferVehicleBOM_AD08 单车BOM{数量:240}
+2022-10-10 18:54:06    OutSyncTicket_AW0B LMS外同步票接口{数量:13}
+2022-10-10 18:54:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 18:54:06    TransferVehicleBOM_AD08 单车BOM{数量:220}
+2022-10-10 18:55:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 18:55:06    TransferVehicleBOM_AD08 单车BOM{数量:200}
+2022-10-10 18:56:06    OutSyncTicket_AW0B LMS外同步票接口{数量:35}
+2022-10-10 18:56:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 18:56:06    TransferVehicleBOM_AD08 单车BOM{数量:180}
+2022-10-10 18:57:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 18:57:06    TransferVehicleBOM_AD08 单车BOM{数量:160}
+2022-10-10 18:58:06    DeliveryOrder_AP15 发货单{数量:1}
+2022-10-10 18:58:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 18:58:06    TransferVehicleBOM_AD08 单车BOM{数量:140}
+2022-10-10 18:59:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 18:59:06    TransferVehicleBOM_AD08 单车BOM{数量:120}
+2022-10-10 19:00:06    OutSyncTicket_AW0B LMS外同步票接口{数量:11}
+2022-10-10 19:00:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 19:00:06    TransferVehicleBOM_AD08 单车BOM{数量:100}
+2022-10-10 19:01:06    TransferVehicleBOM_AD08 单车BOM{数量:80}
+2022-10-10 19:02:06    OutSyncTicket_AW0B LMS外同步票接口{数量:9}
+2022-10-10 19:02:06    TransferVehicleBOM_AD08 单车BOM{数量:60}
+2022-10-10 19:03:06    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:1}
+2022-10-10 19:03:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 19:03:06    TransferVehicleBOM_AD08 单车BOM{数量:40}
+2022-10-10 19:04:06    OutSyncTicket_AW0B LMS外同步票接口{数量:2}
+2022-10-10 19:04:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 19:04:06    TransferVehicleBOM_AD08 单车BOM{数量:20}
+2022-10-10 19:05:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 19:06:06    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 19:06:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 19:07:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 19:08:06    OutSyncTicket_AW0B LMS外同步票接口{数量:4}
+2022-10-10 19:08:06    DeliveryOrder_AP15 发货单{数量:7}
+2022-10-10 19:08:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 19:09:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 19:09:06    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 19:10:06    OutSyncTicket_AW0B LMS外同步票接口{数量:8}
+2022-10-10 19:10:06    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 19:10:06    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 19:12:06    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 19:14:07    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 19:14:07    OrderTheOrder_AP0L 订购订单接口{数量:2}
+2022-10-10 19:16:07    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 19:16:07    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 19:18:07    OutSyncTicket_AW0B LMS外同步票接口{数量:131}
+2022-10-10 19:20:07    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 19:22:07    OutSyncTicket_AW0B LMS外同步票接口{数量:10}
+2022-10-10 19:23:07    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:3}
+2022-10-10 19:24:07    OutSyncTicket_AW0B LMS外同步票接口{数量:8}
+2022-10-10 19:24:07    OrderTheOrder_AP0L 订购订单接口{数量:4}
+2022-10-10 19:26:07    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 19:26:07    OrderTheOrder_AP0L 订购订单接口{数量:2}
+2022-10-10 19:26:07    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 19:27:07    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 19:28:07    OutSyncTicket_AW0B LMS外同步票接口{数量:61}
+2022-10-10 19:30:07    OutSyncTicket_AW0B LMS外同步票接口{数量:15}
+2022-10-10 19:32:07    OutSyncTicket_AW0B LMS外同步票接口{数量:14}
+2022-10-10 19:32:07    OrderTheOrder_AP0L 订购订单接口{数量:4}
+2022-10-10 19:34:07    OutSyncTicket_AW0B LMS外同步票接口{数量:71}
+2022-10-10 19:36:07    OutSyncTicket_AW0B LMS外同步票接口{数量:10}
+2022-10-10 19:38:07    OutSyncTicket_AW0B LMS外同步票接口{数量:29}
+2022-10-10 19:38:07    DeliveryOrder_AP15 发货单{数量:1}
+2022-10-10 19:38:07    OrderTheOrder_AP0L 订购订单接口{数量:5}
+2022-10-10 19:40:07    OutSyncTicket_AW0B LMS外同步票接口{数量:71}
+2022-10-10 19:42:07    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 19:43:07    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:2}
+2022-10-10 19:44:07    OutSyncTicket_AW0B LMS外同步票接口{数量:9}
+2022-10-10 19:46:07    OutSyncTicket_AW0B LMS外同步票接口{数量:31}
+2022-10-10 19:46:07    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 19:48:07    OutSyncTicket_AW0B LMS外同步票接口{数量:14}
+2022-10-10 19:48:07    DeliveryOrder_AP15 发货单{数量:3}
+2022-10-10 19:50:07    OutSyncTicket_AW0B LMS外同步票接口{数量:2}
+2022-10-10 19:50:07    OrderTheOrder_AP0L 订购订单接口{数量:4}
+2022-10-10 19:52:08    OutSyncTicket_AW0B LMS外同步票接口{数量:48}
+2022-10-10 19:53:08    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:2}
+2022-10-10 19:54:08    OutSyncTicket_AW0B LMS外同步票接口{数量:7}
+2022-10-10 19:54:08    OrderTheOrder_AP0L 订购订单接口{数量:9}
+2022-10-10 19:56:08    OutSyncTicket_AW0B LMS外同步票接口{数量:12}
+2022-10-10 19:56:08    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 19:57:08    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 19:58:08    OutSyncTicket_AW0B LMS外同步票接口{数量:21}
+2022-10-10 20:00:08    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:00:08    OrderTheOrder_AP0L 订购订单接口{数量:5}
+2022-10-10 20:02:08    OutSyncTicket_AW0B LMS外同步票接口{数量:59}
+2022-10-10 20:04:08    OutSyncTicket_AW0B LMS外同步票接口{数量:29}
+2022-10-10 20:04:08    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 20:04:08    OrderTheOrder_AP0L 订购订单接口{数量:8}
+2022-10-10 20:06:08    OutSyncTicket_AW0B LMS外同步票接口{数量:39}
+2022-10-10 20:08:08    OutSyncTicket_AW0B LMS外同步票接口{数量:8}
+2022-10-10 20:10:08    OutSyncTicket_AW0B LMS外同步票接口{数量:14}
+2022-10-10 20:10:08    OrderTheOrder_AP0L 订购订单接口{数量:4}
+2022-10-10 20:12:08    OutSyncTicket_AW0B LMS外同步票接口{数量:59}
+2022-10-10 20:14:08    OutSyncTicket_AW0B LMS外同步票接口{数量:11}
+2022-10-10 20:14:08    OrderTheOrder_AP0L 订购订单接口{数量:8}
+2022-10-10 20:16:08    OutSyncTicket_AW0B LMS外同步票接口{数量:4}
+2022-10-10 20:16:08    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:18:08    OutSyncTicket_AW0B LMS外同步票接口{数量:14}
+2022-10-10 20:18:08    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:19:08    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 20:20:08    OutSyncTicket_AW0B LMS外同步票接口{数量:116}
+2022-10-10 20:22:08    OutSyncTicket_AW0B LMS外同步票接口{数量:7}
+2022-10-10 20:22:08    OrderTheOrder_AP0L 订购订单接口{数量:13}
+2022-10-10 20:24:08    OutSyncTicket_AW0B LMS外同步票接口{数量:94}
+2022-10-10 20:26:09    OutSyncTicket_AW0B LMS外同步票接口{数量:18}
+2022-10-10 20:27:38    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:27:38    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:27:38  null
+
+2022-10-10 20:27:58    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:27:58  null
+
+2022-10-10 20:27:59    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:27:59  null
+
+2022-10-10 20:28:00    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:00  null
+
+2022-10-10 20:28:01    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:01  null
+
+2022-10-10 20:28:02    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:02  null
+
+2022-10-10 20:28:03    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:03  null
+
+2022-10-10 20:28:04    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:04  null
+
+2022-10-10 20:28:05    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:05  null
+
+2022-10-10 20:28:06    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:06  null
+
+2022-10-10 20:28:07    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:07  null
+
+2022-10-10 20:28:08    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:08  null
+
+2022-10-10 20:28:09    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:09  null
+
+2022-10-10 20:28:10    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:10  null
+
+2022-10-10 20:28:11    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:11  null
+
+2022-10-10 20:28:12    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:12  null
+
+2022-10-10 20:28:13    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:13  null
+
+2022-10-10 20:28:14    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:14  null
+
+2022-10-10 20:28:15    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 20:28:15    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:28:15  null
+
+2022-10-10 20:33:01  null
+
+2022-10-10 20:33:02  null
+
+2022-10-10 20:33:03  null
+
+2022-10-10 20:33:04  null
+
+2022-10-10 20:33:05  null
+
+2022-10-10 20:33:06  null
+
+2022-10-10 20:33:07  null
+
+2022-10-10 20:33:08  null
+
+2022-10-10 20:33:09  null
+
+2022-10-10 20:33:10  null
+
+2022-10-10 20:33:11  null
+
+2022-10-10 20:33:12  null
+
+2022-10-10 20:33:13  null
+
+2022-10-10 20:33:14  null
+
+2022-10-10 20:33:15    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:16    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:17    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:18    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:19    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:20    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:21    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:22    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:23    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:24    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:27    OutSyncTicket_AW0B LMS外同步票接口{数量:1}
+2022-10-10 20:33:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:28    OutSyncTicket_AW0B LMS外同步票接口{数量:7}
+2022-10-10 20:33:28    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:29    OutSyncTicket_AW0B LMS外同步票接口{数量:13}
+2022-10-10 20:33:29    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:30    OutSyncTicket_AW0B LMS外同步票接口{数量:20}
+2022-10-10 20:33:30    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:31    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:31    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:32    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:32    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:33    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:33    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:34    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:34    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:35    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:35    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:36    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:36    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:38    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:38    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:39    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:39    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:39    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:33:40    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:40    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:33:41    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:41    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:33:42    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:42    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:33:43    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:43    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:43    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:33:44    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:44    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:45    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:45    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:46    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:46    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:47    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:47    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:48    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:48    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:49    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:49    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:33:50    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:51    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:52    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:53    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:33:54    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:08    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:08    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 20:34:09    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:09    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:10    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:10    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:11    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:11    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:12    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:12    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:13    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:13    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:14    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:14    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:14    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:15    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:15    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:15    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:17    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:17    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:17    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:18    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:18    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:18    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:19    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:19    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:19    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:20    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:20    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:20    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:21    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:21    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:21    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:22    OutSyncTicket_AW0B LMS外同步票接口{数量:23}
+2022-10-10 20:34:22    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:22    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:23    OutSyncTicket_AW0B LMS外同步票接口{数量:2}
+2022-10-10 20:34:23    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:23    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:24    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:24    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:25    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:26    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:27    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:28    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:28    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:29    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:29    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:30    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:30    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:31    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:31    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:32    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:32    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:33    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:33    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:34    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:34    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:35    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:35    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:36    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:36    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:37    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:37    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:38    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:38    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 20:34:38    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:34:39    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:39    OrderTheOrder_AP0L 订购订单接口{数量:17}
+2022-10-10 20:34:39    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:34:40    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:40    OrderTheOrder_AP0L 订购订单接口{数量:11}
+2022-10-10 20:34:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:34:41    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:41    OrderTheOrder_AP0L 订购订单接口{数量:5}
+2022-10-10 20:34:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:34:42    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:34:43    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:44    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:45    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:46    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:47    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:48    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:49    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:50    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:34:51      null
+
+2022-10-10 20:34:52      null
+
+2022-10-10 20:34:53      null
+
+2022-10-10 20:34:54      null
+
+2022-10-10 20:34:55      null
+
+2022-10-10 20:34:56      null
+
+2022-10-10 20:34:57      null
+
+2022-10-10 20:34:58      null
+
+2022-10-10 20:34:59      null
+
+2022-10-10 20:35:00      null
+
+2022-10-10 20:35:01      null
+
+2022-10-10 20:35:02      null
+
+2022-10-10 20:35:03      null
+
+2022-10-10 20:35:04      null
+
+2022-10-10 20:35:05      null
+
+2022-10-10 20:35:06      null
+
+2022-10-10 20:35:07      null
+
+2022-10-10 20:35:08      null
+
+2022-10-10 20:35:09      null
+
+2022-10-10 20:35:10      null
+
+2022-10-10 20:35:11      null
+
+2022-10-10 20:35:12      null
+
+2022-10-10 20:35:13      null
+
+2022-10-10 20:35:14    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:15    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:17    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:18    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:19    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:20    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:21    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:22    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:23    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:24    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:28    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:29    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:30    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:31    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:32    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:33    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:34    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:35    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:36    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:37    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:38    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:38    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:35:39    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:39    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:35:40    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:35:41    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:35:42    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:35:43    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:43    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:35:44    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:44    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:35:45    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:46    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:47    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:35:48    VehicOverPointInfo_BM00 null{数量:1}
+本次程序运行时长:00时:01分:40秒
+
+2022-10-10 20:35:55      null
+
+2022-10-10 20:36:01      null
+
+2022-10-10 20:36:07      null
+
+2022-10-10 20:36:13      null
+
+2022-10-10 20:36:19    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:36:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:36:31    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:36:37    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:36:43    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:36:49      null
+
+2022-10-10 20:36:55      null
+
+2022-10-10 20:37:01      null
+
+2022-10-10 20:37:07      null
+
+2022-10-10 20:37:13      null
+
+2022-10-10 20:37:19    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:37:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:37:31    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:37:37    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:37:43    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:37:50    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:37:56      null
+
+2022-10-10 20:38:02      null
+
+2022-10-10 20:38:08      null
+
+2022-10-10 20:38:14      null
+
+2022-10-10 20:38:20    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:38:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:38:32    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:38:38    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:38:38    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:38:44    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:38:50      null
+
+2022-10-10 20:38:56      null
+
+2022-10-10 20:39:02      null
+
+2022-10-10 20:39:09      null
+
+2022-10-10 20:39:15      null
+
+2022-10-10 20:39:21    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:39:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:39:33    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:39:33    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:39:39    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:39:39    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:39:39    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:39:45    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:39:45    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:39:51    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:39:57    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:40:03    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:40:09    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:40:09    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:40:15    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:40:15    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:40:21    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 20:40:21    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:40:21    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:40:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:40:27    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:40:33    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:40:33    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:40:39    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:40:39    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:40:45    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:40:51      null
+
+2022-10-10 20:40:58      null
+
+2022-10-10 20:41:04      null
+
+2022-10-10 20:41:10      null
+
+2022-10-10 20:41:16    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:41:22    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:41:28    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:41:34    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:41:40    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:41:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:41:46    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:41:52      null
+
+2022-10-10 20:41:58      null
+
+2022-10-10 20:42:04      null
+
+2022-10-10 20:42:10      null
+
+2022-10-10 20:42:16    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:42:23    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:42:29    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:42:35    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:42:41    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:42:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 20:42:48    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:42:54      null
+
+2022-10-10 20:43:01      null
+
+2022-10-10 20:43:07      null
+
+2022-10-10 20:43:13      null
+
+2022-10-10 20:43:19    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:43:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:43:31    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:43:37    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:43:43    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:43:49      null
+
+2022-10-10 20:43:55      null
+
+2022-10-10 20:44:02      null
+
+2022-10-10 20:44:08    OrderTheOrder_AP0L 订购订单接口{数量:9}
+2022-10-10 20:44:14    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 20:44:20    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:44:20    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 20:44:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:44:26    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 20:44:32    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:44:32    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 20:44:38    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:44:38    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 20:44:44    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:44:50    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:44:56      null
+
+2022-10-10 20:45:02      null
+
+2022-10-10 20:45:08      null
+
+2022-10-10 20:45:14      null
+
+2022-10-10 20:45:20    VehicOverPointInfo_BM00 null{数量:1}
+本次程序运行时长:00时:09分:26秒
+
+2022-10-10 20:45:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:46:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:47:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:48:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:49:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:49:25    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 20:50:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:51:25    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:52:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:53:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:54:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:54:26    OrderTheOrder_AP0L 订购订单接口{数量:2}
+2022-10-10 20:55:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:56:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:57:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:58:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:58:26    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 20:59:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 20:59:26    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:00:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:01:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:02:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:02:26    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 21:03:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:04:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:04:26    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:04:26    OrderTheOrder_AP0L 订购订单接口{数量:18}
+2022-10-10 21:04:26    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:05:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:06:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:06:26    OrderTheOrder_AP0L 订购订单接口{数量:3}
+2022-10-10 21:07:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:07:26    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:07:26    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:08:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:08:26    OrderTheOrder_AP0L 订购订单接口{数量:2}
+2022-10-10 21:09:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:10:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:10:26    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:10:26    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 21:10:26    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:11:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:12:26    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:12:26    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:13:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:13:27    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:14:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:14:27    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 21:15:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:15:27    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:16:27    VehicOverPointInfo_BM00 null{数量:1}
+2022-10-10 21:16:27    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:16:27    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+本次程序运行时长:00时:32分:00秒
+
+2022-10-10 21:17:32    OutSyncTicket_AW0B LMS外同步票接口{数量:1}
+2022-10-10 21:17:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:18:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:18:32    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:18:32    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:19:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:19:32    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:19:32    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:20:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:21:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:21:32    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:21:32    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:22:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:22:32    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:23:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:23:32    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:23:32    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 21:24:32    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:24:32    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 21:24:32    OrderTheOrder_AP0L 订购订单接口{数量:7}
+2022-10-10 21:25:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:25:33    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 21:26:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:26:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:26:33    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 21:26:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:27:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:27:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:27:33    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 21:28:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:28:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:28:33    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 21:28:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:29:33    OutSyncTicket_AW0B LMS外同步票接口{数量:1}
+2022-10-10 21:29:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:29:33    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:4}
+2022-10-10 21:29:33    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:30:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:30:33    OrderTheOrder_AP0L 订购订单接口{数量:9}
+2022-10-10 21:31:33    OutSyncTicket_AW0B LMS外同步票接口{数量:30}
+2022-10-10 21:31:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:31:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:31:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:32:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:33:33    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 21:33:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:33:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:34:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:34:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:34:33    OrderTheOrder_AP0L 订购订单接口{数量:14}
+2022-10-10 21:34:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:35:33    OutSyncTicket_AW0B LMS外同步票接口{数量:16}
+2022-10-10 21:35:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:36:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:36:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:36:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:36:33    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 21:37:33    OutSyncTicket_AW0B LMS外同步票接口{数量:4}
+2022-10-10 21:37:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:37:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:38:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:38:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:39:33    OutSyncTicket_AW0B LMS外同步票接口{数量:3}
+2022-10-10 21:39:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:40:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:40:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:40:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:41:33    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 21:41:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:42:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:42:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:42:33    OrderTheOrder_AP0L 订购订单接口{数量:7}
+2022-10-10 21:42:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:43:33    OutSyncTicket_AW0B LMS外同步票接口{数量:27}
+2022-10-10 21:43:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:44:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:44:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:44:33    OrderTheOrder_AP0L 订购订单接口{数量:27}
+2022-10-10 21:44:33    BatteryFarmSecLock_AM64 电池锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:45:33    OutSyncTicket_AW0B LMS外同步票接口{数量:8}
+2022-10-10 21:45:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:45:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:46:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:46:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:46:33    OrderTheOrder_AP0L 订购订单接口{数量:2}
+2022-10-10 21:47:33    OutSyncTicket_AW0B LMS外同步票接口{数量:17}
+2022-10-10 21:47:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:47:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:48:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:48:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:49:33    OutSyncTicket_AW0B LMS外同步票接口{数量:13}
+2022-10-10 21:49:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:49:33    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 21:50:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:50:33    OrderTheOrder_AP0L 订购订单接口{数量:3}
+2022-10-10 21:51:33    OutSyncTicket_AW0B LMS外同步票接口{数量:21}
+2022-10-10 21:51:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:51:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:52:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:52:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:52:33    OrderTheOrder_AP0L 订购订单接口{数量:13}
+2022-10-10 21:53:33    OutSyncTicket_AW0B LMS外同步票接口{数量:39}
+2022-10-10 21:53:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:54:33    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:54:33    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:54:33    OrderTheOrder_AP0L 订购订单接口{数量:20}
+2022-10-10 21:55:34    OutSyncTicket_AW0B LMS外同步票接口{数量:7}
+2022-10-10 21:55:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:56:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:56:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:57:34    OutSyncTicket_AW0B LMS外同步票接口{数量:26}
+2022-10-10 21:57:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:58:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 21:58:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 21:58:34    OrderTheOrder_AP0L 订购订单接口{数量:4}
+2022-10-10 21:59:34    OutSyncTicket_AW0B LMS外同步票接口{数量:3}
+2022-10-10 21:59:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:00:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:01:34    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 22:01:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:01:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:02:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:02:34    OrderTheOrder_AP0L 订购订单接口{数量:2}
+2022-10-10 22:03:34    OutSyncTicket_AW0B LMS外同步票接口{数量:43}
+2022-10-10 22:03:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:04:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:04:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:04:34    OrderTheOrder_AP0L 订购订单接口{数量:22}
+2022-10-10 22:05:34    OutSyncTicket_AW0B LMS外同步票接口{数量:9}
+2022-10-10 22:05:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:05:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:06:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:06:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:07:34    OutSyncTicket_AW0B LMS外同步票接口{数量:10}
+2022-10-10 22:07:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:08:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:08:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:08:34    OrderTheOrder_AP0L 订购订单接口{数量:7}
+2022-10-10 22:09:34    OutSyncTicket_AW0B LMS外同步票接口{数量:40}
+2022-10-10 22:09:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:09:34    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 22:10:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:10:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:11:34    OutSyncTicket_AW0B LMS外同步票接口{数量:11}
+2022-10-10 22:11:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:12:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:12:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:12:34    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 22:13:34    OutSyncTicket_AW0B LMS外同步票接口{数量:11}
+2022-10-10 22:13:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:13:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:14:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:14:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:14:34    OrderTheOrder_AP0L 订购订单接口{数量:19}
+2022-10-10 22:15:34    OutSyncTicket_AW0B LMS外同步票接口{数量:3}
+2022-10-10 22:15:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:16:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:16:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:16:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:17:34    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 22:17:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:17:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:17:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 22:18:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:18:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:18:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:4}
+2022-10-10 22:18:34    OrderTheOrder_AP0L 订购订单接口{数量:14}
+2022-10-10 22:19:34    OutSyncTicket_AW0B LMS外同步票接口{数量:30}
+2022-10-10 22:19:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:19:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:19:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:6}
+2022-10-10 22:19:34    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 22:20:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:20:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:2}
+2022-10-10 22:20:34    OrderTheOrder_AP0L 订购订单接口{数量:1}
+2022-10-10 22:21:34    OutSyncTicket_AW0B LMS外同步票接口{数量:26}
+2022-10-10 22:21:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:21:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:21:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:3}
+2022-10-10 22:22:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:22:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:4}
+2022-10-10 22:23:34    OutSyncTicket_AW0B LMS外同步票接口{数量:3}
+2022-10-10 22:23:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:23:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:23:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:5}
+2022-10-10 22:24:34    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:24:34    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:24:34    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:5}
+2022-10-10 22:24:34    OrderTheOrder_AP0L 订购订单接口{数量:16}
+2022-10-10 22:25:35    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 22:25:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:25:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:25:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:9}
+2022-10-10 22:26:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:26:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:26:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:9}
+2022-10-10 22:27:35    OutSyncTicket_AW0B LMS外同步票接口{数量:18}
+2022-10-10 22:27:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:27:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:9}
+2022-10-10 22:28:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:28:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:13}
+2022-10-10 22:28:35    OrderTheOrder_AP0L 订购订单接口{数量:10}
+2022-10-10 22:29:35    OutSyncTicket_AW0B LMS外同步票接口{数量:12}
+2022-10-10 22:29:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:29:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:29:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:16}
+2022-10-10 22:29:35    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 22:29:35    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:30:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:30:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:31:35    OutSyncTicket_AW0B LMS外同步票接口{数量:9}
+2022-10-10 22:31:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:31:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:31:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:32:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:32:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:32:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:32:35    OrderTheOrder_AP0L 订购订单接口{数量:2}
+2022-10-10 22:33:35    OutSyncTicket_AW0B LMS外同步票接口{数量:35}
+2022-10-10 22:33:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:33:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:33:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:34:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:34:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:34:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:34:35    OrderTheOrder_AP0L 订购订单接口{数量:31}
+2022-10-10 22:35:35    OutSyncTicket_AW0B LMS外同步票接口{数量:12}
+2022-10-10 22:35:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:35:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:36:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:36:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:36:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:37:35    OutSyncTicket_AW0B LMS外同步票接口{数量:28}
+2022-10-10 22:37:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:37:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:38:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:38:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:38:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:38:35    OrderTheOrder_AP0L 订购订单接口{数量:4}
+2022-10-10 22:39:35    OutSyncTicket_AW0B LMS外同步票接口{数量:43}
+2022-10-10 22:39:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:39:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:39:35    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:39:35    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 22:39:35    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:40:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:40:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:41:35    OutSyncTicket_AW0B LMS外同步票接口{数量:9}
+2022-10-10 22:41:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:42:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:42:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:42:35    OrderTheOrder_AP0L 订购订单接口{数量:10}
+2022-10-10 22:43:35    OutSyncTicket_AW0B LMS外同步票接口{数量:48}
+2022-10-10 22:43:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:43:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:44:35    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:44:35    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:44:35    OrderTheOrder_AP0L 订购订单接口{数量:18}
+2022-10-10 22:45:40    OutSyncTicket_AW0B LMS外同步票接口{数量:7}
+2022-10-10 22:45:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:45:40    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:45:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:46:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:46:40    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:46:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:47:40    OutSyncTicket_AW0B LMS外同步票接口{数量:15}
+2022-10-10 22:47:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:47:40    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:47:40    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:47:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:48:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:48:40    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:48:40    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:48:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:49:40    OutSyncTicket_AW0B LMS外同步票接口{数量:33}
+2022-10-10 22:49:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:49:40    ReceivePurchaseOrder_AP11 DMS支给件总成{数量:1}
+2022-10-10 22:49:40    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 22:49:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:50:40    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:50:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:51:40    OutSyncTicket_AW0B LMS外同步票接口{数量:30}
+2022-10-10 22:51:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:51:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:52:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:52:40    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:52:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:53:40    OutSyncTicket_AW0B LMS外同步票接口{数量:39}
+2022-10-10 22:53:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:53:40    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:53:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:54:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:54:40    OrderTheOrder_AP0L 订购订单接口{数量:15}
+2022-10-10 22:54:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:55:40    OutSyncTicket_AW0B LMS外同步票接口{数量:7}
+2022-10-10 22:55:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:55:40    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:55:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:56:40    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:56:40    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:57:41    OutSyncTicket_AW0B LMS外同步票接口{数量:12}
+2022-10-10 22:57:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:57:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:57:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:58:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:58:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 22:59:41    OutSyncTicket_AW0B LMS外同步票接口{数量:32}
+2022-10-10 22:59:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 22:59:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 22:59:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:00:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:00:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:00:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:01:41    OutSyncTicket_AW0B LMS外同步票接口{数量:7}
+2022-10-10 23:01:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:01:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:01:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:02:41    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:2}
+2022-10-10 23:02:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:02:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:02:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:03:41    OutSyncTicket_AW0B LMS外同步票接口{数量:9}
+2022-10-10 23:03:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:03:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:04:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:04:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:04:41    OrderTheOrder_AP0L 订购订单接口{数量:12}
+2022-10-10 23:04:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:05:41    OutSyncTicket_AW0B LMS外同步票接口{数量:34}
+2022-10-10 23:05:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:05:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:05:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:06:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:06:41    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:06:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:07:41    OutSyncTicket_AW0B LMS外同步票接口{数量:13}
+2022-10-10 23:07:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:07:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:08:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:08:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:09:41    OutSyncTicket_AW0B LMS外同步票接口{数量:49}
+2022-10-10 23:09:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:09:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:10:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:10:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:11:41    OutSyncTicket_AW0B LMS外同步票接口{数量:29}
+2022-10-10 23:11:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:11:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:12:41    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:3}
+2022-10-10 23:12:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:12:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:13:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:13:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:14:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:14:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:15:41    OutSyncTicket_AW0B LMS外同步票接口{数量:34}
+2022-10-10 23:15:41    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:15:41    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:16:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:17:42    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 23:17:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:17:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:18:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:18:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:19:42    OutSyncTicket_AW0B LMS外同步票接口{数量:4}
+2022-10-10 23:19:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:19:42    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:19:42    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 23:19:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:20:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:20:42    BatteryFarmOverPoint_AM65 电池实际过点信息{数量:1}
+2022-10-10 23:20:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:21:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:21:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:22:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:22:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:23:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:23:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:24:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:24:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:25:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:25:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:26:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:26:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:27:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:27:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:28:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:28:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:29:42    OutSyncTicket_AW0B LMS外同步票接口{数量:9}
+2022-10-10 23:29:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:29:42    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 23:29:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:30:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:30:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:31:42    OutSyncTicket_AW0B LMS外同步票接口{数量:6}
+2022-10-10 23:31:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:31:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:32:42    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:2}
+2022-10-10 23:32:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:32:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:33:42    OutSyncTicket_AW0B LMS外同步票接口{数量:5}
+2022-10-10 23:33:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:33:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:34:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:34:42    OrderTheOrder_AP0L 订购订单接口{数量:7}
+2022-10-10 23:34:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:35:42    OutSyncTicket_AW0B LMS外同步票接口{数量:78}
+2022-10-10 23:36:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:36:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:37:42    OutSyncTicket_AW0B LMS外同步票接口{数量:10}
+2022-10-10 23:37:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:37:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:38:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:38:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:39:42    OutSyncTicket_AW0B LMS外同步票接口{数量:2}
+2022-10-10 23:39:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:39:42    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 23:39:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:40:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:40:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:41:42    OutSyncTicket_AW0B LMS外同步票接口{数量:18}
+2022-10-10 23:41:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:41:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:42:42    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:1}
+2022-10-10 23:42:42    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:42:42    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:43:47    OutSyncTicket_AW0B LMS外同步票接口{数量:3}
+2022-10-10 23:43:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:44:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:44:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:45:47    OutSyncTicket_AW0B LMS外同步票接口{数量:8}
+2022-10-10 23:45:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:45:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:46:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:46:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:47:47    OutSyncTicket_AW0B LMS外同步票接口{数量:78}
+2022-10-10 23:48:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:48:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:49:47    OutSyncTicket_AW0B LMS外同步票接口{数量:27}
+2022-10-10 23:49:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:49:47    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 23:49:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:50:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:50:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:51:47    OutSyncTicket_AW0B LMS外同步票接口{数量:17}
+2022-10-10 23:51:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:51:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:52:47    ExceptOrderAplFeedback_AP0W 例外订购申请反馈{数量:1}
+2022-10-10 23:52:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:52:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:53:47    OutSyncTicket_AW0B LMS外同步票接口{数量:31}
+2022-10-10 23:53:47    VehicLockProducPlan_AM0A 整车锁定生产计划,二次锁定{数量:1}
+2022-10-10 23:53:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}
+2022-10-10 23:54:47    VehicOverPointInfo_BM00 二厂整车过点{数量:1}
+2022-10-10 23:54:47    VehicOverPointInfo_AM0D 整车实绩过点信息{数量:1}

@@ -29,7 +29,10 @@ public class MonitorRunning implements Runnable {
         //编写Sql
         String sql = "SELECT " +
                 "FUNC_NAME," +
-                "B.IT_NAME," +
+                "DECODE( A.FUNC_NAME, 'VehicOverPointInfo_BM00', " +
+                "'二厂整车过点', 'TransferVehicleBOM_BD00', " +
+                "'二厂单车BOM', 'TransferVehicleBOM_AD15', " +
+                "'转移单车BOM', B.IT_NAME ) IT_NAME,"+
                 "DECODE(A.STATUS, '0','未处理','1','已处理','3','处理失败' ) 处理状态," +
                 "COUNT(*) 数量," +
                 "MIN(A.CREATED_DATE) 最早时间," +
@@ -63,17 +66,26 @@ public class MonitorRunning implements Runnable {
             String time = dateFormat.format(new Date());
             System.out.println("\033[34m" + time);
 
+            String funcName = null;
+            String itName = null;
+            String count = null;
             //循环读取查询结果
             while (true) {
                 try {
-                    if (!resultSet.next()) break;
+                    if (!resultSet.next()) {
+                        if (count !=null){
+                            break;
+                        }else {
+                            LogWriter.nullWriter(time);
+                            break;
+                        }
+
+                    }
                 } catch (SQLException e) {
                     e.printStackTrace();
                 }
                 //从resultSet中获得列数据
-                String funcName = null;
-                String itName = null;
-                String count = null;
+
                 try {
                     funcName = resultSet.getString("FUNC_NAME");
                     itName = resultSet.getString("IT_NAME");
@@ -82,7 +94,7 @@ public class MonitorRunning implements Runnable {
                     e.printStackTrace();
                 }
                 //输出控制台,数量大于5以红色显示
-                if ((Integer.parseInt(count)) > 5) {
+                if ((Integer.parseInt(count)) > 20) {
                     System.out.println("\033[31m" + itName + "   数量：" + count);
                 } else {
                     System.out.println("\033[m" + itName + "   数量：" + count);
