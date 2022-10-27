@@ -106,7 +106,8 @@ public class MonitorRunning implements Runnable {
                 //设置监控，当VehicOverPointInfo_AM0D未处理的数量达到5或OutSyncTicket_AW0B达到50时发出告警
                 if (
                         funcName.equals("VehicOverPointInfo_AM0D") & ((Integer.parseInt(count)) > 5) ||
-                                funcName.equals("OutSyncTicket_AW0B") & ((Integer.parseInt(count)) > 50)
+                                funcName.equals("OutSyncTicket_AW0B") & ((Integer.parseInt(count)) > 50) ||
+                                itName.equals("二厂整车过点") & ((Integer.parseInt(count)) > 5)
                 ) {
                     //提示音
                     java.awt.Toolkit.getDefaultToolkit().beep();
